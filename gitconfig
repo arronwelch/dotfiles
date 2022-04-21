@@ -1,0 +1,12 @@
+[http]
+	proxy = http://192.168.19.1:12334
+[https]
+	proxy = https://192.168.19.1:12334
+[user]
+	name = deft
+	email = Davego@protonmail.com
+[core]
+	editor = vim
+	pager = cat
+[merge]
+	tool = vimdiff
