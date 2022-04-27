@@ -1,0 +1,9 @@
+Host rk
+    User root
+    HostName 107.173.86.21
+    IdentityFile ~/.ssh/id_ed25519
+    LocalForward 9999 localhost:8888
+
+Host github.com
+	Hostname ssh.github.com
+	Port 443
