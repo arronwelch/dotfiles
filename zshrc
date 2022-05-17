@@ -117,13 +117,13 @@ export PATH="$HOME/.local/bin:$PATH"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-source /home/deft/.config/broot/launcher/bash/br
+# source ~/.config/broot/launcher/bash/br
 
-  [[ -s /home/deft/.autojump/etc/profile.d/autojump.sh ]] && source /home/deft/.autojump/etc/profile.d/autojump.sh
+  [[ -s ~/.autojump/etc/profile.d/autojump.sh ]] && source ~/.autojump/etc/profile.d/autojump.sh
 
   autoload -U compinit && compinit -u
 
-eval "$(fasd --init auto)"
+# eval "$(fasd --init auto)"
 
 # Enable vi mode
 bindkey -v
