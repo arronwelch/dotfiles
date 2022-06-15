@@ -12,7 +12,7 @@ set ignorecase
 set smartcase
 
 set laststatus=2
-set fileencoding=utf-8
+"set fileencoding=utf-8
 
 syntax on
 color evening
