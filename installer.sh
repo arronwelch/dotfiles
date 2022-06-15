@@ -25,3 +25,4 @@ git config --global core.editor vim
 git config --global core.pager cat
 git config --global merge.tool vimdiff
 
+echo "finished installer.sh"

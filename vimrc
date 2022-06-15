@@ -12,3 +12,4 @@ set ignorecase
 set smartcase
 
 syntax on
+color evening
