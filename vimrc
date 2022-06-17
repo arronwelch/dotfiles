@@ -15,4 +15,4 @@ set laststatus=2
 "set fileencoding=utf-8
 
 syntax on
-color evening
+"color evening
