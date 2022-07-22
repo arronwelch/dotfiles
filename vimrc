@@ -16,3 +16,6 @@ set laststatus=2
 
 syntax on
 "color evening
+
+"new user-defined theme color: desert
+color desert
